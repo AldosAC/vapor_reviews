@@ -1,6 +1,6 @@
 /* eslint-disable camelcase */
 const Sequelize = require('sequelize');
-const sequelize = new Sequelize('steam', 'root', 'student', {
+const sequelize = new Sequelize('steam_reviews', 'root', null, {
   host: 'localhost',
   dialect: 'mysql'
 });

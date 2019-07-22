@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS steam;
+DROP DATABASE IF EXISTS steam_reviews;
 
-CREATE DATABASE steam;
+CREATE DATABASE steam_reviews;
 
-USE steam;
+USE steam_reviews;
